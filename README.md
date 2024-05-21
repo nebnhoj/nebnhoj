@@ -18,7 +18,7 @@ What I Do
 
 🚀 I enjoy building different kind of Projects that challenges me.
 
-🔭 I'm currently working on an Educational Platform.
+🔭 I'm currently working on a startup company.
 
 🌐 You can find some of my projects here on GitHub.
 
