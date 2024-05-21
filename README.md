@@ -8,7 +8,7 @@ About Me
 
 💻 I'm a Software Engineer.
 
-🎓 Currently studying/working on GenAI.
+🎓 Currently studying/working on Go Lang (Fiber).
 
 🌱 I'm always eager to learn and improve my skills.
 
